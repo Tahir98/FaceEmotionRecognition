@@ -1,6 +1,6 @@
 # FaceEmotionRecognition
 
-Real face emotion recognition project
+Real time face emotion recognition project
 
 OpenCV Python TensorFlow
 
